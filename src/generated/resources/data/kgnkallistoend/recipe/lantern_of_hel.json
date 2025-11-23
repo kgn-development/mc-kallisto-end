@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": "minecraft:lantern",
+    "O": "minecraft:ochre_froglight",
+    "P": "minecraft:pearlescent_froglight",
+    "V": "minecraft:verdant_froglight"
+  },
+  "pattern": [
+    " O ",
+    "VLP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:lantern_of_hel"
+  }
+}

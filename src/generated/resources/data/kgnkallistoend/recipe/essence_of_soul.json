@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": "kgnkallistoend:nether_soul",
+    "O": "kgnkallistoend:ocean_soul",
+    "R": "kgnkallistoend:raid_soul",
+    "T": "kgnkallistoend:trial_soul"
+  },
+  "pattern": [
+    " T ",
+    "R N",
+    " O "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:essence_of_soul"
+  }
+}

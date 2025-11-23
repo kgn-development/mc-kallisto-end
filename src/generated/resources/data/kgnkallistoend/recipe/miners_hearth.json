@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:deepslate_iron_ore",
+    "B": "minecraft:deepslate_coal_ore",
+    "C": "minecraft:deepslate_redstone_ore",
+    "D": "minecraft:deepslate_emerald_ore",
+    "E": "minecraft:deepslate_gold_ore",
+    "F": "minecraft:deepslate_diamond_ore"
+  },
+  "pattern": [
+    "A B",
+    "CDE",
+    " F "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:miners_hearth"
+  }
+}

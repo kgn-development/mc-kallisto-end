@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:torchflower",
+    "B": "minecraft:honeycomb",
+    "C": "minecraft:turtle_scute",
+    "D": "#minecraft:wool",
+    "E": "minecraft:armadillo_scute",
+    "F": "minecraft:axolotl_bucket"
+  },
+  "pattern": [
+    "A B",
+    "CDE",
+    " F "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:shepherds_hearth"
+  }
+}

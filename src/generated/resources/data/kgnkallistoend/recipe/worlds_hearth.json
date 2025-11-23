@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:big_dripleaf",
+    "B": "minecraft:flowering_azalea",
+    "C": "minecraft:blue_ice",
+    "D": "minecraft:cactus",
+    "E": "minecraft:powder_snow_bucket",
+    "F": "minecraft:tropical_fish_bucket"
+  },
+  "pattern": [
+    "A B",
+    "CDE",
+    " F "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:worlds_hearth"
+  }
+}

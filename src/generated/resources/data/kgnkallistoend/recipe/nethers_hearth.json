@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:warped_fungus",
+    "B": "minecraft:crimson_fungus",
+    "C": "minecraft:wither_skeleton_skull",
+    "D": "minecraft:dried_ghast",
+    "E": "minecraft:ancient_debris"
+  },
+  "pattern": [
+    "A B",
+    "CDC",
+    " E "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:nethers_hearth"
+  }
+}

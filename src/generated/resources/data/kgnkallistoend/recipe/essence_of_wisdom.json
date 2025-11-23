@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "kgnkallistoend:ancient_artefact",
+    "F": "kgnkallistoend:frozen_artefact",
+    "P": "kgnkallistoend:petrified_artefact",
+    "T": "kgnkallistoend:treasure_artefact"
+  },
+  "pattern": [
+    " T ",
+    "A P",
+    " F "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:essence_of_wisdom"
+  }
+}

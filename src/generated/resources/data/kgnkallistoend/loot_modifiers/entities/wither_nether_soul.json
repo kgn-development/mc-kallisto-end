@@ -1,0 +1,12 @@
+{
+  "type": "kgnkallistoend:add_entity",
+  "baseChance": 1.0,
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/wither"
+    }
+  ],
+  "item": "kgnkallistoend:nether_soul",
+  "lootingBonus": 0.0
+}

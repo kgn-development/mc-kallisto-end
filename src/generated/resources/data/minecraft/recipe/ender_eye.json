@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": "kgnkallistoend:extinguished_eye_of_ender",
+    "H": "kgnkallistoend:essence_of_hearth",
+    "M": "kgnkallistoend:essence_of_might",
+    "S": "kgnkallistoend:essence_of_soul",
+    "W": "kgnkallistoend:essence_of_wisdom"
+  },
+  "pattern": [
+    "S W",
+    " E ",
+    "M H"
+  ],
+  "result": {
+    "count": 16,
+    "id": "minecraft:ender_eye"
+  }
+}

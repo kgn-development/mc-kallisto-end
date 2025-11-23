@@ -1,0 +1,65 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lantern_of_hel": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:lantern_of_hel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_meal_of_ceres": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:meal_of_ceres"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_seedbag_of_osiris": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:seedbag_of_osiris"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "kgnkallistoend:essence_of_might"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wallet_of_hermes": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:wallet_of_hermes"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wallet_of_hermes",
+      "has_meal_of_ceres",
+      "has_lantern_of_hel",
+      "has_seedbag_of_osiris"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "kgnkallistoend:essence_of_might"
+    ]
+  }
+}

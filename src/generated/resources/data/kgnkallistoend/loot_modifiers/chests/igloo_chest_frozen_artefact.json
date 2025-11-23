@@ -1,0 +1,11 @@
+{
+  "type": "kgnkallistoend:add_container",
+  "chance": 0.6,
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/igloo_chest"
+    }
+  ],
+  "item": "kgnkallistoend:frozen_artefact"
+}

@@ -1,0 +1,11 @@
+{
+  "entries": [
+    "kgnkallistoend:entities/ravager_raid_soul",
+    "kgnkallistoend:entities/wither_nether_soul",
+    "kgnkallistoend:entities/elder_guardian_ocean_soul",
+    "kgnkallistoend:chests/buried_treasure_treasure_artefact",
+    "kgnkallistoend:entities/creaking_petrified_artefact",
+    "kgnkallistoend:chests/igloo_chest_frozen_artefact"
+  ],
+  "replace": false
+}

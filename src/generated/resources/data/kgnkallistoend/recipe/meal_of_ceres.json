@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cake",
+    "minecraft:cookie",
+    "minecraft:mushroom_stew",
+    "minecraft:golden_apple",
+    "minecraft:golden_carrot",
+    "minecraft:cooked_beef",
+    "minecraft:pumpkin_pie",
+    "minecraft:rabbit_stew",
+    "minecraft:honey_bottle"
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:meal_of_ceres"
+  }
+}

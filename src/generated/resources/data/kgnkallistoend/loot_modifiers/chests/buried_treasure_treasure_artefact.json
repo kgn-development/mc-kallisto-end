@@ -1,0 +1,11 @@
+{
+  "type": "kgnkallistoend:add_container",
+  "chance": 0.2,
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/buried_treasure"
+    }
+  ],
+  "item": "kgnkallistoend:treasure_artefact"
+}

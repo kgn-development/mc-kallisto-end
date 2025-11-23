@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat_seeds",
+    "minecraft:carrot",
+    "minecraft:beetroot",
+    "minecraft:potato",
+    "minecraft:sweet_berries",
+    "minecraft:melon_seeds",
+    "minecraft:pumpkin_seeds",
+    "minecraft:glow_berries",
+    "minecraft:cocoa_beans"
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:seedbag_of_osiris"
+  }
+}

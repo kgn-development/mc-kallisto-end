@@ -1,0 +1,65 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_essence_of_hearth": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:essence_of_hearth"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence_of_might": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:essence_of_might"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence_of_soul": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:essence_of_soul"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence_of_wisdom": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:essence_of_wisdom"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:ender_eye"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_essence_of_soul",
+      "has_essence_of_wisdom",
+      "has_essence_of_might",
+      "has_essence_of_hearth"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:ender_eye"
+    ]
+  }
+}

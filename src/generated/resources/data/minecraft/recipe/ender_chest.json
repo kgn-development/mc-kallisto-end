@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "minecraft:blaze_powder",
+    "O": "minecraft:obsidian",
+    "P": "minecraft:ender_pearl"
+  },
+  "pattern": [
+    "OBO",
+    "OPO",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:ender_chest"
+  }
+}

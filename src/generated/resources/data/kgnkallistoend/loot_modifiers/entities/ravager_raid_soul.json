@@ -1,0 +1,12 @@
+{
+  "type": "kgnkallistoend:add_entity",
+  "baseChance": 0.33,
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/ravager"
+    }
+  ],
+  "item": "kgnkallistoend:raid_soul",
+  "lootingBonus": 0.0
+}

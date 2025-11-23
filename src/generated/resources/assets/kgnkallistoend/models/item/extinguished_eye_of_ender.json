@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kgnkallistoend:item/extinguished_eye_of_ender"
+  }
+}

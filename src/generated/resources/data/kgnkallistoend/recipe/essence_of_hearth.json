@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": "kgnkallistoend:miners_hearth",
+    "N": "kgnkallistoend:nethers_hearth",
+    "S": "kgnkallistoend:shepherds_hearth",
+    "W": "kgnkallistoend:worlds_hearth"
+  },
+  "pattern": [
+    " S ",
+    "M N",
+    " W "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:essence_of_hearth"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": "kgnkallistoend:lantern_of_hel",
+    "M": "kgnkallistoend:meal_of_ceres",
+    "S": "kgnkallistoend:seedbag_of_osiris",
+    "W": "kgnkallistoend:wallet_of_hermes"
+  },
+  "pattern": [
+    " W ",
+    "M L",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kgnkallistoend:essence_of_might"
+  }
+}

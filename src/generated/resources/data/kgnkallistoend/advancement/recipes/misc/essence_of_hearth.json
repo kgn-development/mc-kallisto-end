@@ -1,0 +1,65 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_miners_hearth": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:miners_hearth"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_nethers_hearth": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:nethers_hearth"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_shepherds_hearth": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:shepherds_hearth"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "kgnkallistoend:essence_of_hearth"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_worlds_hearth": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kgnkallistoend:worlds_hearth"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_shepherds_hearth",
+      "has_miners_hearth",
+      "has_nethers_hearth",
+      "has_worlds_hearth"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "kgnkallistoend:essence_of_hearth"
+    ]
+  }
+}
