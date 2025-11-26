@@ -2,8 +2,6 @@ package li.kallisto.kgnkallistoend.loot
 
 import com.mojang.serialization.MapCodec
 import li.kallisto.kgnkallistoend.KGNKallistoEnd
-import li.kallisto.kgnkallistomusic.loot.AddContainerLootModifier
-import li.kallisto.kgnkallistomusic.loot.AddEntityLootModifier
 import net.neoforged.bus.api.IEventBus
 import net.neoforged.neoforge.common.loot.IGlobalLootModifier
 import net.neoforged.neoforge.registries.DeferredRegister

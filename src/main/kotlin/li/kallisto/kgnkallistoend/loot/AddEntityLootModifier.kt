@@ -1,4 +1,4 @@
-package li.kallisto.kgnkallistomusic.loot
+package li.kallisto.kgnkallistoend.loot
 
 import com.mojang.serialization.Codec
 import com.mojang.serialization.MapCodec

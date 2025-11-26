@@ -2,8 +2,8 @@ package li.kallisto.kgnkallistoend.datagen.providers
 
 import li.kallisto.kgnkallistoend.KGNKallistoEnd
 import li.kallisto.kgnkallistoend.item.ModItems
-import li.kallisto.kgnkallistomusic.loot.AddContainerLootModifier
-import li.kallisto.kgnkallistomusic.loot.AddEntityLootModifier
+import li.kallisto.kgnkallistoend.loot.AddContainerLootModifier
+import li.kallisto.kgnkallistoend.loot.AddEntityLootModifier
 import net.minecraft.core.HolderLookup
 import net.minecraft.data.PackOutput
 import net.minecraft.resources.ResourceLocation
