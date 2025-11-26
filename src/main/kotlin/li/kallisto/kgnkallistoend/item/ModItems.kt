@@ -14,14 +14,14 @@ object ModItems {
         ITEMS.registerItem("extinguished_eye_of_ender") { properties -> Item(properties.setItemModId("extinguished_eye_of_ender")) }
 
     val ESSENCE_OF_SOUL =
-        ITEMS.registerItem("essence_of_soul") { properties -> Item(properties.setItemModId("essence_of_soul")) }
+        ITEMS.registerItem("essence_of_soul") { properties -> EssenceItem(properties.setItemModId("essence_of_soul")) }
     val TRIAL_SOUL = ITEMS.registerItem("trial_soul") { properties -> Item(properties.setItemModId("trial_soul")) }
     val RAID_SOUL = ITEMS.registerItem("raid_soul") { properties -> Item(properties.setItemModId("raid_soul")) }
     val NETHER_SOUL = ITEMS.registerItem("nether_soul") { properties -> Item(properties.setItemModId("nether_soul")) }
     val OCEAN_SOUL = ITEMS.registerItem("ocean_soul") { properties -> Item(properties.setItemModId("ocean_soul")) }
 
     val ESSENCE_OF_WISDOM =
-        ITEMS.registerItem("essence_of_wisdom") { properties -> Item(properties.setItemModId("essence_of_wisdom")) }
+        ITEMS.registerItem("essence_of_wisdom") { properties -> EssenceItem(properties.setItemModId("essence_of_wisdom")) }
     val TREASURE_ARTEFACT =
         ITEMS.registerItem("treasure_artefact") { properties -> Item(properties.setItemModId("treasure_artefact")) }
     val ANCIENT_ARTEFACT =
@@ -32,7 +32,7 @@ object ModItems {
         ITEMS.registerItem("frozen_artefact") { properties -> Item(properties.setItemModId("frozen_artefact")) }
 
     val ESSENCE_OF_MIGHT =
-        ITEMS.registerItem("essence_of_might") { properties -> Item(properties.setItemModId("essence_of_might")) }
+        ITEMS.registerItem("essence_of_might") { properties -> EssenceItem(properties.setItemModId("essence_of_might")) }
     val WALLET_OF_HERMES =
         ITEMS.registerItem("wallet_of_hermes") { properties -> Item(properties.setItemModId("wallet_of_hermes")) }
     val MEAL_OF_CERES =
@@ -43,7 +43,7 @@ object ModItems {
         ITEMS.registerItem("seedbag_of_osiris") { properties -> Item(properties.setItemModId("seedbag_of_osiris")) }
 
     val ESSENCE_OF_HEARTH =
-        ITEMS.registerItem("essence_of_hearth") { properties -> Item(properties.setItemModId("essence_of_hearth")) }
+        ITEMS.registerItem("essence_of_hearth") { properties -> EssenceItem(properties.setItemModId("essence_of_hearth")) }
     val SHEPHERDS_HEARTH =
         ITEMS.registerItem("shepherds_hearth") { properties -> Item(properties.setItemModId("shepherds_hearth")) }
     val MINERS_HEARTH =
