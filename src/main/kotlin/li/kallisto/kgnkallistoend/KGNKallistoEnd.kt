@@ -3,7 +3,7 @@ package li.kallisto.kgnkallistoend
 import li.kallisto.kgnkallistoend.datagen.ModDataGenerator
 import li.kallisto.kgnkallistoend.item.ModCreativeModeTabs
 import li.kallisto.kgnkallistoend.item.ModItems
-import li.kallisto.kgnkallistomusic.loot.ModLootModifiers
+import li.kallisto.kgnkallistoend.loot.ModLootModifiers
 import net.minecraft.resources.ResourceLocation
 import net.minecraft.world.entity.npc.VillagerProfession
 import net.minecraft.world.entity.npc.VillagerTrades
